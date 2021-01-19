@@ -6,8 +6,8 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;
 
-@SpringBootApplication
 @Configuration
+@SpringBootApplication
 public class TestApplication {
 
 	public static void main(String[] args) {
